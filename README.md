@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dikchaa
+- 👋 Hi, I’m @Dikcha Singh
 - 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 I’m currently learning B.Tech computer science specialization in Big data analytics.
 - 💞️ I’m looking to collaborate on Data Analytics and Machine Learning projects.
