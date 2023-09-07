@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <br>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/santhanalakshmi-k-32442a202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santhanalakshmi-k-32442a202/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dikcha-singh-469020236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dikcha-singh-469020236/" height="30" width="40" /></a>
 </p>
 <br>
 
@@ -72,8 +72,8 @@
   <span class="icon-space"></span>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santhanalakshmi21&show_icons=true&locale=en&layout=compact" alt="santhanalakshmi21" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dikchaa&show_icons=true&locale=en&layout=compact" alt="Dikchaa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santhanalakshmi21&show_icons=true&locale=en" alt="santhanalakshmi21" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dikchaa&show_icons=true&locale=en" alt="Dikchaa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santhanalakshmi21&" alt="santhanalakshmi21" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dikchaa&" alt="Dikchaa" /></p>
