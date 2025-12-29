@@ -5,15 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">  <img src="https://github-profile-trophy.vercel.app/?username=Dikchaa" alt="Dikchaa" /> </a> </p>
 
-- 🔭 I’m currently working on **Machine Learning Related project**
+- **I’m currently working as a Backup & Recovery Engineer (Commvault) at TCS**, gaining hands-on experience in enterprise infrastructure and operations, while **upskilling in Cloud (AWS/Azure), Python, and Data Engineering.**
 
-- 👯 I’m looking to collaborate on **Machine Learning,Deep Learning,Data Visualization,Data Science Related Projects**
+- 👯 **I’m looking to collaborate on**
+Cloud projects (AWS/Azure), Python-based automation, Data Engineering, Cloud Cost Optimization (FinOps), and beginner-friendly AI/ML integrations.
 
 - 👨‍💻 To  Known more about me [https://sites.google.com/view/dikcha-singh/home](https://sites.google.com/view/dikcha-singh/home)
 
-- 💬 Ask me about **Machine Learning, Data Science and Deep Learning**
+- 💬 **Ask me about**
+Commvault Backup & Recovery, Cloud fundamentals, Python learning journey, career transition from support to Cloud/Data roles, and consistency-driven learning.
 
-- 📫 How to reach me **ds5498@srmist.edu.in**
+- 📫 How to reach me **dikchasingh2002@gmail.com**
 
 <br>
 
